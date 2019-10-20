@@ -1,0 +1,46 @@
+Functions
+
+
+any work performed
+
+function return / output
+parameteres/input
+	
+		output function_name (input)
+			
+		knowledge study (focus,attention, energy, time)
+		enjoyment playing (strength, effort, time)
+		nothing pubg (time, battery, data)
+
+		        int Add(int n1, int n2){
+			int result = n1 + n2;
+ 			return result;
+
+
+			}
+			
+			void marksheet(int s1, int s2, int total){
+			float per = (s1+s2*100)/200;
+			
+
+			}
+
+		int main(){
+
+			return 6654.3;
+		}
+
+c language - int by default
+prototype
+function call
+
+
+
+
+
+
+
+
+
+
+
